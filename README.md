@@ -1,2 +1,3 @@
 # up206a-DerRong
-## Intro of Me
+## Self Introduction
+Hello, my name is Der-Rong Liu (劉德容)
