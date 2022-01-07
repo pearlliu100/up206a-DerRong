@@ -8,3 +8,5 @@ This course focus on
 ## Course Objectives
 1. Proficient in GIS. Back in undergrad I took a class in ArcGIS, and it was very basic as we go over the toolbox and practice each tools. I hope that with a thorough understanding in GIS
 2. 
+
+## Project Ideas
