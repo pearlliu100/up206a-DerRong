@@ -13,3 +13,4 @@ This course will focus on introducing spatial analytical tools that could be use
 •	Apply the knowledge of GIS into future projects
 
 ## Project Ideas
+
