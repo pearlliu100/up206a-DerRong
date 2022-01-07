@@ -13,4 +13,7 @@ This course will focus on introducing spatial analytical tools that could be use
 * Apply the knowledge of GIS into future projects
 
 ## Project Ideas
-### GIS 
+### GIS for TOD
+* Indentify areas for Transit-Oriented Development in Los Angeles
+! https://planning.lacounty.gov/assets/upl/project/tod_map-final.pdf
+
