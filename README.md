@@ -15,5 +15,10 @@ This course will focus on introducing spatial analytical tools that could be use
 ## Project Ideas
 ### GIS for TOD
 * Indentify areas for Transit-Oriented Development in Los Angeles
-* !(https://planning.lacounty.gov/assets/img/entry/tod_map-final.png)
+  * Analyze data to produce statistics on existing population, employment, housing and transportation characteristics for each potential       TOD area, and identify stations that would benefit from optimizing TOD.
+* Measure existing TOD in Los Angeles
+  * Measure TOD levels considering functional, economic and built environment aspects. For example, densities, level of mixed use.
+### GIS for measure of spatial health disparity
+* identify neighborhoods with the spatial disparity of health care access
+
 
