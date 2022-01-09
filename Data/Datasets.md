@@ -15,5 +15,7 @@ Download: https://github.com/pearlliu100/up206a-DerRong/blob/main/Data/RailLines
 
 ## General Plan Land Use
 Description: This source shows the land use of Los Angeles. When measure TOD levels, we have to take consider of environment aspects, such as level of mixed use and land use diversity. 
+
 Source: https://geohub.lacity.org/datasets/general-plan-land-use-gplu/explore?location=33.926392%2C-118.219622%2C10.59
-Download:
+
+Download: https://github.com/pearlliu100/up206a-DerRong/blob/main/Data/General_Plan_Land_Use_(GPLU).csv
