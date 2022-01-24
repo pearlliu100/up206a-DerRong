@@ -3164,6 +3164,14 @@
    "source": [
     "If we want to analyze this data furthur so that it could be more tailored for our TOD research, we could later overlay the 85% driver population and rail stops across Los Angeles to see which area has potential as a TOD."
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dd6ce162-a129-4b7e-87ea-62fb68851c36",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
