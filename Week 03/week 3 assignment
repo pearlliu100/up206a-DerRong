@@ -14,7 +14,9 @@
    "cell_type": "code",
    "execution_count": 1,
    "id": "fcc97117-07ee-455d-b731-0c697c6a309c",
-   "metadata": {},
+   "metadata": {
+    "tags": []
+   },
    "outputs": [
     {
      "name": "stderr",
